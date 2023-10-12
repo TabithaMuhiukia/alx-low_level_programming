@@ -1,1 +1,2 @@
-My functions_nested_loops read me file
+#!/bin/bash
+My function nested loops direcotry read me file
