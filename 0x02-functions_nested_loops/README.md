@@ -1,2 +1,1 @@
-#!/bin/bash
-My function nested loops direcotry read me file
+My Directory to capture the function nested loops
